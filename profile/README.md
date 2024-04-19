@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to the GitHub of the SWAP modellers community. Here we share the source code of the SWAP model as well as all packages that make out work with the model easier.
+
+Take a look around! Visit our repositories, pick what you need and check how you can contribute! You'll fine documentation and contribution guidelines in the individual repositories.
 <!--
 
 **Here are some ideas to get you started:**
